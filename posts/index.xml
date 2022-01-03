@@ -3,12 +3,12 @@
         <title>所有文章 - 我的全新 Hugo 网站</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 01 Jan 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown 基本语法</title>
-    <link>http://example.org/posts/first_post/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <link>http://example.org/posts/2022-01/first_post/</link>
+    <pubDate>Sat, 01 Jan 2022 21:57:40 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>http://example.org/posts/first_post/</guid>
+    <guid>http://example.org/posts/2022-01/first_post/</guid>
     <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
 </item></channel>
 </rss>
